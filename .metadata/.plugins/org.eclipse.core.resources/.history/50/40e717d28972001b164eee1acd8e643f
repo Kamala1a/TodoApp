@@ -1,0 +1,10 @@
+package com.coderscampus.todoapp.model;
+
+public class TodoItem {
+
+	private Integer id;
+	private String task;
+	private Boolean isDone;
+	
+	
+}

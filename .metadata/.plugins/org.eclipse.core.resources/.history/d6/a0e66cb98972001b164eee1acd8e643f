@@ -1,0 +1,7 @@
+package com.coderscampus.todoapp.model;
+
+public class TodoItem {
+
+	private Integer id;
+	
+}

@@ -1,0 +1,5 @@
+package com.coderscampus.todoapp.model;
+
+public class TodoItem {
+
+}
